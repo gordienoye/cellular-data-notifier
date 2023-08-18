@@ -1,11 +1,11 @@
 <resources>
-  <string name="application_name">Cellular Data Notifier</string>
-  <string name="pref_key_notify_connectivity_change">notify_connectivity_change</string>
-  <string name="pref_key_notification_visible">notification_visible</string>
+    <string name="app_name">Cellular Data Notifier</string>
+    <string name="pref_key_notify_connectivity_change">notify_connectivity_change</string>
+    <string name="pref_key_notification_visible">notification_visible</string>
 
-  <string name="listening_for_changes">Listening for changes in connectivity</string>
-  <string name="ignoring_changes">Ignoring changes in connectivity</string>
+    <string name="listening_for_changes">Listening for changes in connectivity</string>
+    <string name="ignoring_changes">Ignoring changes in connectivity</string>
 
-  <string name="notification_title">Wifi Unavailable</string>
-  <string name="notification_text">You are now using cellular data.</string>
+    <string name="notification_title">Wifi Unavailable</string>
+    <string name="notification_text">You are now using cellular data.</string>
 </resources>
