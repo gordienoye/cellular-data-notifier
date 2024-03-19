@@ -8,6 +8,6 @@ The permissions list is found in [`AndroidManifest.xml`](https://github.com/gord
 
 | Permission | Why it is required |
 | :---: | --- |
-| `android.permission.ACCESS_NETWORK_STATE` | This permission allows the applicaton to access information about the network state and is usesd to recognize when the device is using cellular data. |
+| `android.permission.ACCESS_NETWORK_STATE` | This permission allows the application to access information about the network state and uses it to recognize when the device is using cellular data. |
 
  <hr style="border:1px solid gray">
